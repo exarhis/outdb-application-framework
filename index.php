@@ -1,6 +1,5 @@
 <?php
 
-
 include '_c.php';
 include 'core/db.php';
 include 'core/registry.php';
